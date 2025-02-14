@@ -1,0 +1,21 @@
+{
+    "Routine":{
+       "Cardio":"2",
+       "Abs":"3",
+       "Back":"3",
+       "Arms":"3",
+       "Glutes":"2",
+       "Core":"3",
+       "Chest":"3"
+     },
+
+    "Equipment":{  
+      "Bench":"Yes",
+      "Rack":"Yes",
+      "Kettlebell":"Yes",
+      "Dumbbell":"Yes",
+      "Linear":"Yes",
+      "Circular":"Yes",
+      "Band":"Yes"
+    }
+}

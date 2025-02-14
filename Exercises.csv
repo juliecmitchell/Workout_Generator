@@ -1,0 +1,90 @@
+Exercise,Zone,Bench,Band,XBell,Weight,RepsPerSet
+21s,Arms,No,No,Dumbbell,15,15
+Angled Out Curls,Arms,No,No,Dumbbell,10,15
+Back Flys,Back,No,No,Dumbbell,10,15
+Band Arm Extension Horizontal,Arms,No,Circular,No,0,15
+Band Arm Extension Vertical,Arms,No,Circular,No,0,15
+Band Curls,Arms,No,Linear,No,0,15
+Band Donkey Kick,Glutes,No,Circular,No,0,15
+Band Fire Hydrant,Glutes,No,Circular,No,0,15
+Band Pull Downs,Arms,No,Linear,No,0,15
+Band Rows,Back,No,Linear,No,0,15
+Band Tri Extension,Arms,No,Circular,No,0,15
+Band Tricep Extension,Arms,No,Circular,No,0,15
+Banded Bridge,Core,No,Circular,No,0,30
+Banded Clamshell to Leg Lift,Glutes,No,Circular,No,0,15
+Banded Plank Leg Lift,Core,No,Circular,No,0,15
+Banded Side Step,Glutes,No,Circular,No,0,15
+Banded Squat Pulse,Glutes,No,Circular,No,0,15
+Bench Flys,Chest,Bench,No,Dumbbell,10,15
+Bench Press,Arms,Bench,No,Dumbbell,15,15
+Bent Over Rows,Back,No,No,Dumbbell,15,15
+Bicycles,Core,No,No,No,0,30
+Bosu Pullups,Chest,Rack,No,No,0,10
+Burpees,Core,No,No,No,0,10
+Bus Drivers,Arms,No,No,Dumbbell,15,30
+Curls,Arms,No,No,Dumbbell,15,15
+Curtsy Lunge,Glutes,No,No,No,0,10
+Dead Bugs,Core,No,No,No,0,20
+Deadlifts,Glutes,No,No,Dumbbell,30,15
+Decline Chest Press,Chest,Bench,No,Dumbbell,15,15
+Decline Triceps,Arms,Bench,No,Dumbbell,15,15
+Dips,Arms,Bench,No,No,0,10
+Down Dog Pushups,Arms,No,No,No,0,10
+Dragon Flag,Core,No,No,No,0,10
+Dumbbell Row,Chest,No,No,Dumbbell,15,15
+Elevated Toe Deadlift,Glutes,No,No,Dumbbell,30,15
+Flutter Kicks,Core,No,No,No,0,30
+Front Raise,Arms,No,No,Dumbbell,10,15
+Goblet Squats,Glutes,No,No,Dumbbell,25,10
+Hammer Curl,Arms,No,No,Dumbbell,15,15
+High Knees,Cardio,No,No,No,0,30
+In and Outs,Core,No,No,No,0,20
+Incline Bench Press,Arms,No,No,Dumbbell,15,15
+Incline Fly,Chest,No,No,Dumbbell,10,15
+Incline Push Ups,Chest,No,No,No,0,10
+Jump Squat,Glutes,No,No,No,0,10
+Jumping Jacks,Cardio,No,No,No,0,30
+Kettlebell obliques,Core,No,No,Kettlebell,25,20
+Kettlebell snatches,Arms,No,No,Kettlebell,15,15
+Kettlebell swings,Arms,No,No,Kettlebell,35,15
+Lateral Raises,Arms,No,No,Dumbbell,10,15
+Lawnmowers,Back,Bench,No,Dumbbell,15,15
+Leg Lifts,Core,No,No,No,0,20
+Military Press,Arms,No,No,Dumbbell,15,15
+Mountain Climbers,Core,No,No,No,0,10
+Overhead Squat,Glutes,No,No,No,25,10
+Overhead Tricep Raise,Arms,No,No,Dumbbell,15,15
+Plank Jack,Core,No,No,No,0,10
+Plank Reaches,Arms,No,No,No,0,30
+Plank Shoulder Taps,Core,No,No,No,0,20
+Press,Chest,Bench,No,Dumbbell,15,15
+Pushups,Chest,No,No,No,0,10
+Reach Throughs,Core,No,No,No,0,20
+Reverse Crunches,Core,No,No,No,0,20
+Reverse Lunge w/Knee,Glutes,No,No,No,0,10
+Reverse Situp,Core,No,No,No,0,20
+Russian Twists,Core,No,No,Kettlebell,20,20
+Side Lunges,Glutes,No,No,No,0,10
+Side Plank,Core,No,No,No,0,10
+Side Plank Crunch,Core,No,No,No,0,10
+Single Leg Deadlift,Glutes,No,No,Dumbbell,25,15
+Spider Pushup,Chest,No,No,No,0,10
+Split Squats,Glutes,No,No,No,0,10
+Standing Rows,Back,Rack,No,Dumbbell,120,15
+Sumo Deadlift,Glutes,No,No,Dumbbell,40,15
+Supermans,Core,No,No,No,0,20
+Swimmer Curls,Arms,No,No,Dumbbell,15,15
+Thrusters,Glutes,No,No,Dumbbell,15,15
+Toe Touches,Core,No,No,No,0,20
+Tricep Kickback,Arms,Bench,No,Dumbbell,15,15
+Tricep Pulldown,Arms,Rack,No,No,60,15
+Tricep Pushup,Arms,No,No,No,0,10
+Trunk Rotation,Core,No,No,Dumbbell,40,20
+TRX Rows,Back,Rack,Strap,No,No,15
+V-Ups,Core,No,No,No,0,10
+Walking Lunge,Glutes,No,No,No,0,20
+Weighted Bridge,Core,No,No,Kettlebell,20,20
+Weighted Crunches,Core,No,No,Kettlebell,25,20
+Weighted Pulse Squat,Glutes,No,No,Dumbbell,25,15
+Wide Grip Pushups,Arms,No,No,No,0,10
