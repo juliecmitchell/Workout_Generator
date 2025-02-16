@@ -96,5 +96,5 @@ if __name__ == "__main__":
     df = read_csv_with_headers(csv_file_path)
     dff = filter_csv_by_equipment(df, json_data)
     
-    for zone in ["Arms", "Back", "Chest", "Glutes", "Core" "Cardio"]:
+    for zone in ["Arms", "Back", "Chest", "Glutes", "Core", "Cardio"]:
         select_random_zone_entries(dff, json_data, zone)
