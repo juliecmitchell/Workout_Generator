@@ -9,7 +9,7 @@
 #       exercise you want and what equipment you have available.
 #
 # Use this command:
-#       python script.py Exercises.csv Exercises.json
+#       python3 script.py Exercises.csv Exercises.json
 #
 # You may need to execute the following code first, to install dependencies:
 #       pip3 -install pandas
@@ -96,10 +96,5 @@ if __name__ == "__main__":
     df = read_csv_with_headers(csv_file_path)
     dff = filter_csv_by_equipment(df, json_data)
     
-    select_random_zone_entries(dff, json_data, "Arms")
-    select_random_zone_entries(dff, json_data, "Back")
-    select_random_zone_entries(dff, json_data, "Chest")
-    select_random_zone_entries(dff, json_data, "Glutes")
-    select_random_zone_entries(dff, json_data, "Core")
-    select_random_zone_entries(dff, json_data, "Cardio")
-
+    for zone in ["Arms", "Back", "Chest", "Glutes", "Core" "Cardio"]:
+        select_random_zone_entries(dff, json_data, zone)
